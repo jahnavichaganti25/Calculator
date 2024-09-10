@@ -1,4 +1,4 @@
-# CodeAlpha_Calculator
+# Calculator
 
 A simple calculator application that performs basic arithmetic operations, making it a great tool for everyday calculations.
 
